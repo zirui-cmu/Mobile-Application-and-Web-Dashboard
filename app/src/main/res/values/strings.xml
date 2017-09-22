@@ -1,0 +1,5 @@
+<resources>
+    <string name="hello">Type a search word to get a Wiki snippet.</string>
+    <string name="app_name">Interesting Wiki</string>
+    <string name="action_settings">Action</string>
+</resources>
